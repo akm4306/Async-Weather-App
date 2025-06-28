@@ -1,0 +1,15 @@
+E:\Projects\Contact-Management-System-in-CSharp-\Weather app\bin\Debug\net9.0\Weather app.exe
+E:\Projects\Contact-Management-System-in-CSharp-\Weather app\bin\Debug\net9.0\Weather app.deps.json
+E:\Projects\Contact-Management-System-in-CSharp-\Weather app\bin\Debug\net9.0\Weather app.runtimeconfig.json
+E:\Projects\Contact-Management-System-in-CSharp-\Weather app\bin\Debug\net9.0\Weather app.dll
+E:\Projects\Contact-Management-System-in-CSharp-\Weather app\bin\Debug\net9.0\Weather app.pdb
+E:\Projects\Contact-Management-System-in-CSharp-\Weather app\obj\Debug\net9.0\Weather app.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Contact-Management-System-in-CSharp-\Weather app\obj\Debug\net9.0\Weather app.AssemblyInfoInputs.cache
+E:\Projects\Contact-Management-System-in-CSharp-\Weather app\obj\Debug\net9.0\Weather app.AssemblyInfo.cs
+E:\Projects\Contact-Management-System-in-CSharp-\Weather app\obj\Debug\net9.0\Weather app.csproj.CoreCompileInputs.cache
+E:\Projects\Contact-Management-System-in-CSharp-\Weather app\obj\Debug\net9.0\Weather app.sourcelink.json
+E:\Projects\Contact-Management-System-in-CSharp-\Weather app\obj\Debug\net9.0\Weather app.dll
+E:\Projects\Contact-Management-System-in-CSharp-\Weather app\obj\Debug\net9.0\refint\Weather app.dll
+E:\Projects\Contact-Management-System-in-CSharp-\Weather app\obj\Debug\net9.0\Weather app.pdb
+E:\Projects\Contact-Management-System-in-CSharp-\Weather app\obj\Debug\net9.0\Weather app.genruntimeconfig.cache
+E:\Projects\Contact-Management-System-in-CSharp-\Weather app\obj\Debug\net9.0\ref\Weather app.dll

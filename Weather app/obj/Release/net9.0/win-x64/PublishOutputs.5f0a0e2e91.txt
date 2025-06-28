@@ -1,0 +1,2 @@
+E:\Projects\Contact-Management-System-in-CSharp-\Weather app\bin\Release\net9.0\win-x64\publish\Weather app.pdb
+E:\Projects\Contact-Management-System-in-CSharp-\Weather app\bin\Release\net9.0\win-x64\publish\Weather app.exe
